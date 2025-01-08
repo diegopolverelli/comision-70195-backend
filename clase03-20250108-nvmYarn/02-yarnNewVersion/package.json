@@ -1,0 +1,13 @@
+{
+  "name": "02-yarnNewVersion",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "dev": "node --watch ./src/app.js"
+  },
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.2"
+  }
+}

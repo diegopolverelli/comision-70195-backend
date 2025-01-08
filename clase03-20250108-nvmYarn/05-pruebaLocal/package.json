@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "prueba20250108": "file:../04-npmModules"
+  }
+}
