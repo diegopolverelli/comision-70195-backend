@@ -1,0 +1,10 @@
+{
+  message: 'Prueba log nivel error',
+  level: 'error',
+  timestamp: '2025-01-13T14:09:50.461Z'
+}
+{
+  message: 'Prueba log nivel error',
+  level: 'error',
+  timestamp: '2025-01-13T14:10:50.247Z'
+}
